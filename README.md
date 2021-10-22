@@ -1,7 +1,7 @@
 # Zilliqa Network Tree :
 
 As zilliqa has a moto to be a people's blockchain network. It requeres people to connect with each other. I have commited to the same idealogy of connecting people together and hence have created an interactive NFT generating website where you can generate your own NFT which can be unique to you. In this network tree I have idealised each branch as a bond between peers and each node and joints as the peers in the network. I can even develop this code further engouh so this it can be easily minted over the zil network.
-See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/zilliqa-open/)
+*See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/zilliqa-open/)
 
 # Instructions: 
 
