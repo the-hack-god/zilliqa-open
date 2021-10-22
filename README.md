@@ -1,4 +1,4 @@
-# Generative Fractal Tree :
+# Zilliqa Network Tree :
 
 
 See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/zilliqa-open/)
