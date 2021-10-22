@@ -18,7 +18,7 @@ See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/z
 * If you end up with a pattern you like, you can save it as an image using the save button.
 
 
-# Some paterns generated using this -
+# Some patterns generated using this -
 ## #1
 ![](https://image.ibb.co/b85Cdv/tree_9.png)
 ## #2
