@@ -1,6 +1,5 @@
 # Generative Fractal Tree :
 
-I have made this project for CENNZnet generative art bounty. It is an object oriented approach towards building a Factral Tree from branch objects and it can be modified at each and every step.You can also create a tree of your own choice and then save it as image, this gives the user a power to choose an art of their choice, as the tree is made by them. You can play around with the tree as much to your liking and explore the generativity with just few clicks.
 
 See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/Fractal-Tree-Object-Oriented-/)
 
