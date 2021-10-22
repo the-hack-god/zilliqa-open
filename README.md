@@ -1,7 +1,7 @@
 # Generative Fractal Tree :
 
 
-See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/Fractal-Tree-Object-Oriented-/)
+See the Fractal Generator in action [**HERE.**](https://the-hack-god.github.io/zilliqa-open/)
 
 # Instructions: 
 
